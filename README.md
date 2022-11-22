@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sillycow886
+- 👋 Hello, I’m @sillycow886
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on coding
